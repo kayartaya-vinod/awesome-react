@@ -1,3 +1,18 @@
+<table>
+<tr>
+    <td>
+        <a href="http://bit.ly/2D9pxjW" target="_blank">
+        <img src="https://github.com/kayartaya-vinod/2018_11_Unisys_TypeORM/raw/master/angular7.jpeg">
+        </a>
+    </td>
+    <td>
+        <a href="https://www.udemy.com/mongodb-fundamentals/?couponCode=FIRST500" target="_blank">
+        <img src="https://github.com/kayartaya-vinod/2018_11_Unisys_TypeORM/raw/master/mongodb.jpeg">
+        </a>
+    </td>
+</tr>
+</table>
+
 ### **Awesome React** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
